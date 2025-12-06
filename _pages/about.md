@@ -24,7 +24,7 @@ Hi visitor! I am Ronghua Li (call me Cory if you like, easier pronouncing), curr
 <div class="scrollable">
  <ul>
 <li><strong>2025.12.06</strong>: &nbsp;🎉🎉 Finally launched my personal page!</li>
-<li><strong>2025.12.06</strong>: &nbsp;🎉🎉 Our paper got accepted to NDSS 2026!
+<li><strong>2025.12.03</strong>: &nbsp;🎉🎉 Our paper got accepted to NDSS 2026!</li>
 </ul>
 </div>
 
