@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi visitor! I am Ronghua Li (call me Cory if you like, easier pronouncing), currently pursuing my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. Before that, I got my master degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on studying security and privacy issues in modern IoT systems with ML/DL techniques. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or Wechat (lrh893304167)!
+Hi visitor! I am Ronghua Li (call me Cory if you like, easier pronouncing), currently pursuing my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). Before that, I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on studying security and privacy issues in modern IoT systems with ML/DL techniques. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
 
 
 # 🔥 News
@@ -31,8 +31,8 @@ Hi visitor! I am Ronghua Li (call me Cory if you like, easier pronouncing), curr
 # 📝 Publications 
 - [WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](https://arxiv.org/abs/2508.03151) (NDSS 26' CCF-A)\
   **Ronghua Li**, Shinan Liu, Haibo Hu, Qingqing Ye, Nick Feamster
-- [Class-feature Watermark: A Resilient Black-box Watermark Against Model Extraction Attacks](https://arxiv.org/abs/2511.07947) (AAAI 26')
-  Yaxing Xiao, Qingqing Ye, Zi Liang, Hu Li, Ronghua Li, Huadi Zheng, Haibo Hu
+- [Class-feature Watermark: A Resilient Black-box Watermark Against Model Extraction Attacks](https://arxiv.org/abs/2511.07947) (AAAI 26' CCF-A)
+  Yaxing Xiao, Qingqing Ye, Zi Liang, Hu Li, **Ronghua Li**, Huadi Zheng, Haibo Hu
 - [Alignment-aware model extraction attacks on large language models.](https://arxiv.org/abs/2409.02718) (ACL 25' main, CCF-A)\
   Zi Liang, Qingqing Ye, Yanyun Wang, Sen Zhang, Yaxin Xiao, **Ronghua Li**, Jianliang Xu, and Haibo Hu.
 - [Does Low Rank Adaptation Lead to Lower Robustness against Training-Time Attacks?](https://arxiv.org/abs/2505.12871) (ICML 25' CCF-A)\
@@ -48,17 +48,18 @@ Hi visitor! I am Ronghua Li (call me Cory if you like, easier pronouncing), curr
 
 
 # 🎖 Honors and Awards
-- *2024.12* Received RASP scholarship for my visiting program.
+- *2024.12* Received RSAP scholarship for my visiting program.
 
 # 🖊️ Services
 - ICASSP 2026 reviewer
 - IEEE Internet of Things Journal reviewer
 
 # 📖 Educations
-- *2022.09 - (now)*, The Hong Kong Polytechnic University, EIE, Ph.D.
+- *2022.09 - 2026.04 (expected)*, The Hong Kong Polytechnic University, EIE, Ph.D.
 - *2019.09 - 2022.03*, KTH Royal Institute of Technology, COMM, M.S.
 - *2016.09 - 2020.06*, Huazhong University of Science and Technology, B.E.
 
 
-# 💻 Internships
+# 💻 Experiences
+- *2025.01 - 2025.07*, Visiting Student @Uchicago, Chicago, Illinois, U.S.
 - *2020.06 - 2020.09*, Android developer @Meituan, Beijing, China.
