@@ -1,11 +1,7 @@
 ---
-permalink: /moreoverai
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /moreoverai/
-  - /moreoverai.html
+layout: default
+permalink: /moreoverai/
+title: "MoreoverAI"
 ---
 
 # MoreoverAI
