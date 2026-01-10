@@ -18,5 +18,8 @@ main:
   - title: "MoreoverAI"
     url: "/moreoverai"
 
+  - title: "Logs"
+    url: "/logs/"
+
 #  - title: "Internships"
 #    url: "/#-internships"

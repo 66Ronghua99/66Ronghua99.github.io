@@ -25,3 +25,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# Fix for Ruby 2.6
+gem "ffi", "~> 1.15.0"
