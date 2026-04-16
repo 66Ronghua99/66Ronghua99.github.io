@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi visitor! I am Ronghua Li (call me Cory if you like, easier pronouncing), currently pursuing my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). Before that, I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on studying security and privacy issues in modern IoT systems with ML/DL techniques. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
+Hi visitor! I am Ronghua Li (李镕骅，or call me Cory for easier pronouncing), currently pursuing my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). Before that, I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on studying network system/traffic measurement and their security/privacy issues with ML/DL techniques. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
 
 
 # 🔥 News
@@ -41,10 +41,12 @@ Hi visitor! I am Ronghua Li (call me Cory if you like, easier pronouncing), curr
   **Ronghua Li**, Haibo Hu, Qingqing Ye.
 
 ## Preprint/Submitted
-- Towards Preference-aligned Smart Home Conflict Resolution. (IoTJ major revision)\
+- Towards Preference-aligned Smart Home Conflict Resolution. (IoTJ minor revision)\
   **Ronghua Li**, Haibo Hu, Zi Liang, Qingqing Ye, Yaxin Xiao
-- BFM Witnessing: Securing Wi-Fi Against Forged Beamforming Feedback Manipulation (submitted to INFOCOM)\
+- BFM Witnessing: Securing Wi-Fi Against Forged Beamforming Feedback Manipulation (submitted to TIFS)\
   Zhibiao Guo, **Ronghua Li**, Youqian Zhang, Qingqing Ye, Jiang Zhu, Haibo Hu
+- "Keep Alert!"" Exploiting Wi-Fi Beamforming Announcement for Traffic Disruption and Power Drain (submitted to CCS)\
+  Zhibiao Guo, **Ronghua Li**, Youqian Zhang, Qingqing Ye, Haibo Hu
 
 
 # 🎖 Honors and Awards
