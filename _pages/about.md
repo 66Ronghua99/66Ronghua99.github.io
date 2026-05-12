@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi visitor! I am Ronghua Li (李镕骅，or call me Cory for easier pronouncing), currently pursuing my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). Before that, I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on studying network system/traffic measurement and their security/privacy issues with ML/DL techniques. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
+Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a postdoctoral researcher at [NAISS lab](https://naisslab.github.io/) starting from this September. I finished my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). Before that, I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on studying network system/traffic measurement and their security/privacy issues with ML/DL techniques. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
 
 
 # 🔥 News
@@ -23,12 +23,16 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory for easier pronouncing)
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.05.10</strong>: &nbsp;🎉🎉 Our PaCR paper was accepted!</li>
+<li><strong>2026.05.08</strong>: &nbsp;🎓 Successfully defended my dissertation!</li>
 <li><strong>2025.12.06</strong>: &nbsp;🎉🎉 Finally launched my personal page!</li>
 <li><strong>2025.12.03</strong>: &nbsp;🎉🎉 Our paper got accepted to NDSS 2026!</li>
 </ul>
 </div>
 
-# 📝 Publications 
+# 📝 Publications (Chronological)
+- Towards Preference-aligned Smart Home Conflict Resolution. (IoTJ)\
+  **Ronghua Li**, Haibo Hu, Zi Liang, Qingqing Ye, Yaxin Xiao
 - [WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](https://arxiv.org/abs/2508.03151) (NDSS 26' CCF-A)\
   **Ronghua Li**, Shinan Liu, Haibo Hu, Qingqing Ye, Nick Feamster
 - [Class-feature Watermark: A Resilient Black-box Watermark Against Model Extraction Attacks](https://arxiv.org/abs/2511.07947) (AAAI 26' CCF-A)
@@ -41,8 +45,6 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory for easier pronouncing)
   **Ronghua Li**, Haibo Hu, Qingqing Ye.
 
 ## Preprint/Submitted
-- Towards Preference-aligned Smart Home Conflict Resolution. (IoTJ minor revision)\
-  **Ronghua Li**, Haibo Hu, Zi Liang, Qingqing Ye, Yaxin Xiao
 - BFM Witnessing: Securing Wi-Fi Against Forged Beamforming Feedback Manipulation (submitted to TIFS)\
   Zhibiao Guo, **Ronghua Li**, Youqian Zhang, Qingqing Ye, Jiang Zhu, Haibo Hu
 - "Keep Alert!"" Exploiting Wi-Fi Beamforming Announcement for Traffic Disruption and Power Drain (submitted to CCS)\
