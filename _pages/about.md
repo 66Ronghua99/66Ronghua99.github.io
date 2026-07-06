@@ -55,15 +55,20 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
 - *2024.12* Received RSAP scholarship for my visiting program.
 
 # 🖊️ Services
-- ICASSP 2026 reviewer
+## Conference Reviewer
+- ICASSP'26
+
+## Journal Reviewer
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Internet of Things Journal reviewer
 
 # 📖 Educations
-- *2022.09 - 2026.04 (expected)*, The Hong Kong Polytechnic University, EIE, Ph.D.
+- *2022.09 - 2026.08*, The Hong Kong Polytechnic University, EIE, Ph.D.
 - *2019.09 - 2022.03*, KTH Royal Institute of Technology, COMM, M.S.
 - *2016.09 - 2020.06*, Huazhong University of Science and Technology, B.E.
 
 
 # 💻 Experiences
+- *2026.05 - 2025.08*, Intern @Huawei, Dongguan, Guangdong, China.
 - *2025.01 - 2025.07*, Visiting Student @Uchicago, Chicago, Illinois, U.S.
 - *2020.06 - 2020.09*, Android developer @Meituan, Beijing, China.
