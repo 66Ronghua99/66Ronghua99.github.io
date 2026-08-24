@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a postdoctoral researcher at [NAISS lab](https://naisslab.github.io/) starting from this September. I finished my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). Before that, I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on studying network system/traffic measurement and their security/privacy issues with ML/DL techniques. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
+Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a postdoctoral researcher at [NAISS lab](https://naisslab.github.io/) starting from Sep, 2026. I finished my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). Before that, I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on network data modeling and their security/privacy implications, LLM data analysis and synthesis. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
 
 
 # 🔥 News
@@ -23,6 +23,7 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.05.10</strong>: &nbsp;🎉🎉 Our MAppPrint paper was accepted to NDSS 2027! Huge congrats to Tao!!</li>
 <li><strong>2026.05.10</strong>: &nbsp;🎉🎉 Our PaCR paper was accepted!</li>
 <li><strong>2026.05.08</strong>: &nbsp;🎓 Successfully defended my dissertation!</li>
 <li><strong>2025.12.06</strong>: &nbsp;🎉🎉 Finally launched my personal page!</li>
@@ -31,6 +32,8 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
 </div>
 
 # 📝 Publications (Chronological)
+- MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Causal Graphs. (NDSS)\
+  Tao Duan, Junzhou Zhao, Jianglong Li, **Ronghua Li**, Youqian Zhang, Nuo Xu, Pinghui Wang, Haibo Hu
 - Towards Preference-aligned Smart Home Conflict Resolution. (IoTJ)\
   **Ronghua Li**, Haibo Hu, Zi Liang, Qingqing Ye, Yaxin Xiao
 - [WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](https://arxiv.org/abs/2508.03151) (NDSS 26' CCF-A)\
@@ -47,7 +50,7 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
 ## Preprint/Submitted
 - BFM Witnessing: Securing Wi-Fi Against Forged Beamforming Feedback Manipulation (submitted to TIFS)\
   Zhibiao Guo, **Ronghua Li**, Youqian Zhang, Qingqing Ye, Jiang Zhu, Haibo Hu
-- "Keep Alert!"" Exploiting Wi-Fi Beamforming Announcement for Traffic Disruption and Power Drain (submitted to CCS)\
+- "Keep Alert!"" Exploiting Wi-Fi Beamforming Announcement for Traffic Disruption and Power Drain (submitted to NDSS)\
   Zhibiao Guo, **Ronghua Li**, Youqian Zhang, Qingqing Ye, Haibo Hu
 
 
