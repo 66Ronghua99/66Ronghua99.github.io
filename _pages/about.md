@@ -23,6 +23,7 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.05.10</strong>: &nbsp;🎉🎉 Our Mobius-Injection paper was accepted to NDSS 2027! Thanks to Zi for involving me into the project!!</li>
 <li><strong>2026.05.10</strong>: &nbsp;🎉🎉 Our MAppPrint paper was accepted to NDSS 2027! Huge congrats to Tao!!</li>
 <li><strong>2026.05.10</strong>: &nbsp;🎉🎉 Our PaCR paper was accepted!</li>
 <li><strong>2026.05.08</strong>: &nbsp;🎓 Successfully defended my dissertation!</li>
@@ -32,13 +33,15 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
 </div>
 
 # 📝 Publications (Chronological)
-- MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Causal Graphs. (NDSS)\
+- Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection (NDSS, CCF-A)\
+  Zi Liang, **Ronghua Li**, Yanyun Wang, Qingqing Ye, Haibo Hu
+- MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Causal Graphs. (NDSS, CCF-A)\
   Tao Duan, Junzhou Zhao, Jianglong Li, **Ronghua Li**, Youqian Zhang, Nuo Xu, Pinghui Wang, Haibo Hu
 - Towards Preference-aligned Smart Home Conflict Resolution. (IoTJ)\
   **Ronghua Li**, Haibo Hu, Zi Liang, Qingqing Ye, Yaxin Xiao
 - [WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](https://arxiv.org/abs/2508.03151) (NDSS 26' CCF-A)\
   **Ronghua Li**, Shinan Liu, Haibo Hu, Qingqing Ye, Nick Feamster
-- [Class-feature Watermark: A Resilient Black-box Watermark Against Model Extraction Attacks](https://arxiv.org/abs/2511.07947) (AAAI 26' CCF-A)
+- [Class-feature Watermark: A Resilient Black-box Watermark Against Model Extraction Attacks](https://arxiv.org/abs/2511.07947) (AAAI 26' CCF-A)\
   Yaxing Xiao, Qingqing Ye, Zi Liang, Hu Li, **Ronghua Li**, Huadi Zheng, Haibo Hu
 - [Alignment-aware model extraction attacks on large language models.](https://arxiv.org/abs/2409.02718) (ACL 25' main, CCF-A)\
   Zi Liang, Qingqing Ye, Yanyun Wang, Sen Zhang, Yaxin Xiao, **Ronghua Li**, Jianliang Xu, and Haibo Hu.
@@ -59,11 +62,12 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
 
 # 🖊️ Services
 ## Conference Reviewer
-- ICASSP'26
+- ICASSP
 
 ## Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing
-- IEEE Internet of Things Journal reviewer
+- Journal of Internet Technology
+- IEEE Internet of Things Journal
 
 # 📖 Educations
 - *2022.09 - 2026.08*, The Hong Kong Polytechnic University, EIE, Ph.D.
