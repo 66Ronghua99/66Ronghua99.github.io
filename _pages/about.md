@@ -41,7 +41,7 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
   **Ronghua Li**, Haibo Hu, Zi Liang, Qingqing Ye, Yaxin Xiao
 - [WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](https://arxiv.org/abs/2508.03151) (NDSS 26' CCF-A)\
   **Ronghua Li**, Shinan Liu, Haibo Hu, Qingqing Ye, Nick Feamster
-- [Class-feature Watermark: A Resilient Black-box Watermark Against Model Extraction Attacks](https://arxiv.org/abs/2511.07947) (AAAI 26' CCF-A)\
+- [Class-feature Watermark: A Resilient Black-box Watermark Against Model Extraction Attacks](https://arxiv.org/abs/2511.07947) (AAAI 26' CCF-A) \
   Yaxing Xiao, Qingqing Ye, Zi Liang, Hu Li, **Ronghua Li**, Huadi Zheng, Haibo Hu
 - [Alignment-aware model extraction attacks on large language models.](https://arxiv.org/abs/2409.02718) (ACL 25' main, CCF-A)\
   Zi Liang, Qingqing Ye, Yanyun Wang, Sen Zhang, Yaxin Xiao, **Ronghua Li**, Jianliang Xu, and Haibo Hu.
