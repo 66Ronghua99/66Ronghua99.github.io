@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a postdoctoral researcher at [NAISS lab](https://naisslab.github.io/) starting from Sep, 2026. I finished my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). Before that, I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on network data modeling and their security/privacy implications, LLM data analysis and synthesis. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
+Hi visitor! I am Ronghua Li (李镕骅，or call me Cory), currently a postdoctoral researcher at [NAISS lab](https://naisslab.github.io/). I finished my PhD at the [Hong Kong Polytechnic University](https://www.astaple.com/), advised by <a href="https://haibohu.org/">Prof. Haibo Hu</a>. During my Ph.D., I joined the NOISE lab as a visiting student at UChicago, advised by [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). I got my master's degree from KTH, Sweden, advised by [Panos Papadimitratos](https://people.kth.se/~papadim/). My main research focuses on network data modeling and their security/privacy implications, LLM data analysis and synthesis. I'm very open to AI/network/security collaborations; feel free to reach out to me via email or WeChat (lrh893304167)!
 
 
 # 🔥 News
@@ -62,12 +62,13 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory) and will become a post
 
 # 🖊️ Services
 ## Conference Reviewer
-- ICASSP
+- ICASSP 26, 27; ICLR 27; 
 
 ## Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing
-- Journal of Internet Technology
 - IEEE Internet of Things Journal
+- Journal of Internet Technology
+- Journal of Cybersecurity and Privacy
 
 # 📖 Educations
 - *2022.09 - 2026.08*, The Hong Kong Polytechnic University, EIE, Ph.D.
