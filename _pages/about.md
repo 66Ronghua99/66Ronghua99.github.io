@@ -33,9 +33,9 @@ Hi visitor! I am Ronghua Li (李镕骅，or call me Cory), currently a postdocto
 </div>
 
 # 📝 Publications (Chronological)
-- Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection (NDSS, CCF-A)\
+- Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection (NDSS 27', CCF-A)\
   Zi Liang, **Ronghua Li**, Yanyun Wang, Qingqing Ye, Haibo Hu
-- MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Causal Graphs. (NDSS, CCF-A)\
+- [MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Causal Graphs.](https://arxiv.org/abs/2610.22148) (NDSS 27', CCF-A)\
   Tao Duan, Junzhou Zhao, Jianglong Li, **Ronghua Li**, Youqian Zhang, Nuo Xu, Pinghui Wang, Haibo Hu
 - Towards Preference-aligned Smart Home Conflict Resolution. (IoTJ)\
   **Ronghua Li**, Haibo Hu, Zi Liang, Qingqing Ye, Yaxin Xiao
